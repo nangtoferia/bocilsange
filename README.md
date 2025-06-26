@@ -1,2 +1,1 @@
-# bocilsange
-bocilsange
+# [bocilsange](https://bocilsange.pages.dev)
